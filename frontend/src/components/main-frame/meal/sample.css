@@ -1,0 +1,45 @@
+.image-caption {
+    padding-left: 34px;
+    font-family: ProximaNova;
+    font-size: 15px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #011627;
+}
+.meal-image{
+    display: flex;
+    align-items: center;
+   
+}
+.image-wrapper{
+   position: relative;
+   padding-right: 34px;
+}
+.image{
+    position: absolute;
+    top: -19px;
+}
+.view-nutrient-button{
+    background-color: #f4f4f5 !important;
+    font-family: ProximaNova!important;
+    font-size: 12px !important;
+    font-weight: 600!important;
+    line-height: 1.25!important;
+    text-align: left!important;
+    color: #939a9f!important;
+}
+.date{
+    font-family: ProximaNova;
+    font-size: 11px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.18;
+    letter-spacing: normal;
+    text-align: left;
+    color: #011627;
+}

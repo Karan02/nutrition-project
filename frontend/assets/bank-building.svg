@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="bank-building" width="15.464" height="15.457" viewBox="0 0 15.464 15.457">
+    <defs>
+        <style>
+            .cls-1{fill:#899096}
+        </style>
+    </defs>
+    <g id="Layer_1_78_">
+        <g id="Group_6202" data-name="Group 6202">
+            <path id="Path_6814" d="M14.755 42.718H.7a.7.7 0 0 0 0 1.406h14.054a.7.7 0 0 0 0-1.406z" class="cls-1" data-name="Path 6814" transform="translate(0 -28.667)"/>
+            <path id="Path_6815" d="M3.372 22.837a.7.7 0 0 0 0 1.406h12.3a.7.7 0 0 0 0-1.406h-.175v-6.324h.175a.351.351 0 1 0 0-.7h-12.3a.351.351 0 1 0 0 .7h.176v6.323h-.176zm10.714-6.324v6.323h-2.108v-6.323zm-3.513 0v6.323H8.465v-6.323zm-5.621 0H7.06v6.323H4.952z" class="cls-1" data-name="Path 6815" transform="translate(-1.791 -10.613)"/>
+            <path id="Path_6816" d="M.7 4.578h14.061a.7.7 0 0 0 .228-1.368L8.017.073a.7.7 0 0 0-.576 0L.415 3.235A.7.7 0 0 0 .7 4.578z" class="cls-1" data-name="Path 6816" transform="translate(0 -.012)"/>
+        </g>
+    </g>
+</svg>

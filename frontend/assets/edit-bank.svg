@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="close" width="28.911" height="28.911" viewBox="0 0 28.911 28.911">
+    <defs>
+        <style>
+            .cls-1{fill:#f1f1f1}.cls-2{fill:#aaa}
+        </style>
+    </defs>
+    <path id="Path_6620" d="M14.456 0A14.456 14.456 0 1 1 0 14.456 14.456 14.456 0 0 1 14.456 0z" class="cls-1" data-name="Path 6620"/>
+    <g id="Group_4256" data-name="Group 4256" transform="translate(9.295 9.513)">
+        <g id="Group_26_Copy_7" data-name="Group 26 Copy 7">
+            <g id="floppy-disk">
+                <g id="pencil" transform="rotate(180 4.701 4.693)">
+                    <path id="Shape" d="M.418.4a1.475 1.475 0 0 1 2.023 0l.7.681-2.012 1.933-.711-.681a1.331 1.331 0 0 1 0-1.938z" class="cls-2"/>
+                    <path id="Shape_Copy_2" d="M6.532 4.609l.729 1.721a.786.786 0 0 1-1.078 1.009l-1.6-.807L0 1.945 1.932 0z" class="cls-2" data-name="Shape Copy 2" transform="rotate(180 3.663 3.713)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

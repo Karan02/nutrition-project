@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="trash" width="11.661" height="13.54" viewBox="0 0 11.661 13.54">
+    <defs>
+        <style>
+            .cls-1{fill:#eca657}.cls-2{fill:#656161}
+        </style>
+    </defs>
+    <path id="Shape" d="M11.078 3.4H.583a.567.567 0 1 1 0-1.133h1.75V1.7A1.727 1.727 0 0 1 4.082 0h3.5a1.727 1.727 0 0 1 1.747 1.7v.568h1.749a.567.567 0 1 1 0 1.133zm-7-2.268A.576.576 0 0 0 3.5 1.7v.568h4.663V1.7a.575.575 0 0 0-.582-.567z" class="cls-1"/>
+    <path id="Shape_Copy" d="M.513 8a1.153 1.153 0 0 0 1.166 1.07h7.137A1.153 1.153 0 0 0 9.982 8l.518-8H0z" class="cls-2" data-name="Shape Copy" transform="translate(.68 4.47)"/>
+</svg>
